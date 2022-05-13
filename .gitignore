@@ -1,0 +1,8 @@
+*Icon*
+*.o
+*.out
+*.swp
+.nfs*
+*.gch
+*queue*
+omp.h
